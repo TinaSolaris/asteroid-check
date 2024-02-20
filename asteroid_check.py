@@ -1,8 +1,3 @@
-'''
-Dataset is taken from:
-https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset?resource=download
-'''
-
 import argparse
 import sys
 import os
